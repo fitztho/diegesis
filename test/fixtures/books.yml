@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  filepath: MyString
+  added: 2015-10-30 22:44:51
+  check_out_id: 
+
+two:
+  title: MyString
+  filepath: MyString
+  added: 2015-10-30 22:44:51
+  check_out_id: 
